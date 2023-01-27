@@ -8,5 +8,14 @@ public class Java345Hw1 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.printf("**********"
+                + "%n*        *%n"
+                + "*        *%n"
+                + "*        *%n"
+                + "*        *%n"
+                + "*        *%n"
+                + "*        *%n"
+                + "*        *%n"
+                + "**********");
     }
 }
